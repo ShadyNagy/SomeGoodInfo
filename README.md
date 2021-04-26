@@ -14,4 +14,6 @@ ng build --prod --base-href /ServerVirtualPath/ --deploy-url /ServerVirtualPath/
 
 
 ### Github Secrets Show
+```powershell
 echo ${{secrets.MY_SECRET}} | sed 's/./& /g'
+```
