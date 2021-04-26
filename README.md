@@ -11,3 +11,7 @@ git config --global user.email "email@address.com"
 ```powershell
 ng build --prod --base-href /ServerVirtualPath/ --deploy-url /ServerVirtualPath/
 ```
+
+
+### Github Secrets Show
+echo ${{secrets.MY_SECRET}} | sed 's/./& /g'
