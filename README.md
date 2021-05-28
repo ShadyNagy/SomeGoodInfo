@@ -27,5 +27,5 @@ sehch\Documents\Paragon\ParagonCore\servers\SealingService\SealingService"
 
 Path
 ```powershell
-C:\Users\Administrator\Documents\IISExpress\config
+C:\Users\Administrator\Documents\IISExpress\config\applicationhost.config
 ```
