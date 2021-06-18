@@ -59,6 +59,8 @@ Don't forget:
 
 ### VPN
 https://www.cyberciti.biz/faq/centos-8-set-up-wireguard-vpn-server/
+https://kirill888.github.io/notes/wireguard-via-websocket/
+https://github.com/jnsgruk/wireguard-over-wss
 ```bash
 $ sudo dkms autoinstall
 ```
