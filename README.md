@@ -57,7 +57,7 @@ Don't forget:
 4) different Windows subversions (e.g. Win10) can use different libraries versions, check it before copy patched libraries from other computer
 
 
-VPN
+### VPN
 https://www.cyberciti.biz/faq/centos-8-set-up-wireguard-vpn-server/
 ```bash
 $ sudo dkms autoinstall
